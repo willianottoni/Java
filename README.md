@@ -12,3 +12,7 @@ Utilização dos comandos básicos para criar uma tabuada.
 # Aula 3 - Tipos de Variáveis
 
 Entendendo os tipos de váriaveis e introdução a vetor
+
+# Aula 4 - Exercício
+
+Exercício com vetor e introdução ao Try Catch
